@@ -1,17 +1,18 @@
 .header {
   display: flex;
   position: fixed;
+  height: 60px;
   top: 0;
   width: 100vw;
-  margin: 15px;
-  margin-top: 15px;
+  padding-top: 15px;
   z-index: 100;
+  background-color: white;
 }
 
 .header__title {
   font-size: 21px;
   margin-top: 5px;
-  margin-left: 15px;
+  margin-left: 25px;
 }
 
 .header__center {

@@ -1,11 +1,15 @@
 @font-face {
-  font-family: 'iCielMedium';
+  font-family: "iCielMedium";
   src: local("iCielMedium"), url("./fonts/iCiel-Medium.ttf") format("truetype");
   font-weight: normal;
 }
 
 * {
   margin: 0;
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
 }
 
 body {
