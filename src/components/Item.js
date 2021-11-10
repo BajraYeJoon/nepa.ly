@@ -25,7 +25,7 @@ const Item = ({
     >
       <div className="item-container">
         <div className="item-content">
-          <p>{title}</p>
+          <p>{title.toUpperCase()}</p>
           <div className="item-content-child">
             <p>{desc}</p>
           </div>

@@ -15,8 +15,8 @@ function App() {
 
       <div className="app__itemscontainer">
         <Item
-          title=" Experience the adventure in Nepal"
-          desc=" thrilling , excitement"
+          title=" Experience The Himalayas Like Never Before"
+          desc=" Make yourself closer to the snow covered mountains on air"
           descLink=""
           backgroundImg={Himalaya}
           leftBtnText="Get Tickets"
@@ -28,49 +28,49 @@ function App() {
         />
 
         <Item
-          title=" Experience the adventure in Nepal"
-          desc=" thrilling , excitement"
+          title="Get Closer to Heritage Architecture"
+          desc=" A peaceful cup of coffee around peaceful environment"
           descLink=""
           backgroundImg={Religious}
-          leftBtnText="Get Tickets"
+          leftBtnText="Explore Places"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnText="Book a Cab"
           rightBtnLink=""
           twoButtons="true"
         />
 
         <Item
-          title=" Experience the adventure in Nepal"
-          desc=" thrilling , excitement"
+          title="Familiarize with Tourists from all over the world"
+          desc=" Get to know everything from our experts  "
           descLink=""
           backgroundImg={Tourism}
-          leftBtnText="Get Tickets"
+          leftBtnText="Hire an Agency"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnText="Open Maps"
           rightBtnLink=""
           twoButtons="true"
         />
 
         <Item
-          title=" Experience the adventure in Nepal"
-          desc=" thrilling , excitement"
+          title=" Life from a New Perspective "
+          desc=" Jungle safari to feel closer to Nature "
           descLink=""
           backgroundImg={Wildlife}
-          leftBtnText="Get Tickets"
+          leftBtnText="Get a Tour"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnText="Book Now"
           rightBtnLink=""
           twoButtons="true"
         />
 
         <Item
-          title=" Experience the adventure in Nepal"
-          desc=" thrilling , excitement"
+          title=" Join The Diversed Culture "
+          desc=" Make your stay feel like Home"
           descLink=""
           backgroundImg={Culture}
-          leftBtnText="Get Tickets"
+          leftBtnText="Follow Events"
           leftBtnLink=""
-          rightBtnText="Learn More"
+          rightBtnText="Book a Home Stay"
           rightBtnLink=""
           twoButtons="true"
         />
