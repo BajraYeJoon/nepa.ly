@@ -1,10 +1,12 @@
 .header {
   display: flex;
+  align-items: center;
   position: fixed;
   height: 60px;
   top: 0;
   width: 100vw;
-  padding-top: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   z-index: 100;
   background-color: white;
 }
@@ -36,4 +38,22 @@
 
 .header__right > p {
   margin: 20px;
+}
+
+.header__right button {
+  background: none;
+  border: none;
+
+  font-family: inherit;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.header__right .first-child {
+  margin-right: 10px;
+}
+
+.header__right button:hover {
+  cursor: pointer;
+  color: rgb(133, 131, 131);
 }
