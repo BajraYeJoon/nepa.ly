@@ -15,7 +15,7 @@ function App() {
 
       <div className="app__itemscontainer">
         <Item
-          title=" Experience The Himalayas Like Never Before"
+          title=" Experience  The  Himalayas  Like Never Before"
           desc=" Make yourself closer to the snow covered mountains on air"
           descLink=""
           backgroundImg={Himalaya}

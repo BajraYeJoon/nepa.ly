@@ -17,8 +17,10 @@ const Header = () => {
       </div>
 
       <div className="header__right">
-        <p className="first-child">Hire a Guide</p>
-        <p>Call Now</p>
+        <button className="first-child">Hire a Guide</button>
+        <button className="second-child">
+          <span>Call Now</span> <i className="fas fa-phone"></i>
+        </button>
       </div>
     </div>
   );
