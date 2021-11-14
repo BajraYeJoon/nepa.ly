@@ -1,5 +1,7 @@
 import React from "react";
 import "./Header.css";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faPhone } from '@fortawesome/free-solid-svg-icons'
 
 const Header = () => {
   return (
@@ -18,7 +20,8 @@ const Header = () => {
 
       <div className="header__right">
         <p className="first-child">Hire a Guide</p>
-        <p>Call Now</p>
+        <p className="second-child">Call Now  <FontAwesomeIcon icon={faPhone}/></p>
+        
       </div>
     </div>
   );

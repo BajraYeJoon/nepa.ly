@@ -8,7 +8,6 @@
   border-radius: 40px;
   opacity: 100%;
   flex-direction: column;
-  padding-top: 10px;
   margin-right: 8px;
 }
 
@@ -17,6 +16,7 @@
   color: white;
   font-size: 15px;
   text-align: center;
+  transform:translateY(40%)
 }
 
 .button__white {
