@@ -2,6 +2,7 @@
 
 Nepa.ly, A travel guide webpage to give tourists an overview of the different sections of the things that can be done during their visits.
 
+![](https://github.com/BajraYeJoon/nepa.ly/blob/master/src/img/fp.JPG)
 ### You can hire a guide based on the options you choose.
 
 -Get Tickets Booked at instant..✔
