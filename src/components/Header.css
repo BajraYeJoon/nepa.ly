@@ -1,10 +1,12 @@
 .header {
   display: flex;
+  align-items: center;
   position: fixed;
   height: 60px;
   top: 0;
   width: 100vw;
-  padding-top: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   z-index: 100;
   background-color: white;
   align-items: center;
