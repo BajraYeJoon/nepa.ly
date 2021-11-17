@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/063bb2ab-637f-4d1e-8dc4-06b78c21fbb1/deploy-status)](https://app.netlify.com/sites/vajra-nepally/deploys) 
 
 ## Your Own Travel Guide to Nepal.🌄
 
